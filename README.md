@@ -1,5 +1,6 @@
 # CS50sql-note-
 Harvard SQL Course Booklet
+
 Headlines :
 Week 0 - Querying
 Week 1 - Relating
